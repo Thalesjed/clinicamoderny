@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "687627055783",
+    "project_id": "saudeok-moderny",
+    "storage_bucket": "saudeok-moderny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687627055783:android:82856df3e8ab0f64e3a182",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687627055783-ipfcuphkvopaj2nkshq3g972qm2ke8mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaOTaYYbRL8oxQW8_9InMxYg1ThpGi4eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687627055783-dcoivgn65i7ci497rububo8j9l75snir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687627055783-o59bagjkqo3kdl8cl9kc7dsr6m7k9rq1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.healthai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
